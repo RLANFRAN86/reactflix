@@ -1,0 +1,16 @@
+.topRatedHeader {
+    background-color: black;
+    display: flex;
+    color: white;
+    margin: 30px 0 0 55px;
+}
+
+.topRated {
+    font-size: 25px;
+    margin-right: 65%;
+}
+
+.topRated::first-letter {
+    color: #FA0BFF;
+
+}

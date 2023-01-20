@@ -1,0 +1,9 @@
+.headerBtn {
+    display: flex;
+    align-items: center;
+    color: rgb(250, 11, 255, 1);
+    margin: 40px;
+}
+.btnHeader{
+    padding-left: 60px;
+}

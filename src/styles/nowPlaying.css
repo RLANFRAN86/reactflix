@@ -1,0 +1,19 @@
+.nowPlayingHeader {
+    background-color: black;
+    display: flex;
+    color: white;
+    margin: 30px 0 0 55px;
+}
+
+.nowPlaying {
+    font-size: 25px;
+    margin-right: 72%;
+}
+
+.nowPlaying::first-letter {
+    color: #FA0BFF;
+
+}
+.movies{
+    cursor: pointer;
+}

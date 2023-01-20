@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.home {
+    background-color: black;
+    box-sizing: border-box;
+    margin: 0;
+    pad: 0;
+}
+
+.searchHome {
+    margin-left: 30px;
+}
+
+.genresCarousel {
+    padding: 30px 30px 10px 30px;
+}
+
+.posterCarousel {
+    position: relative;
+    top: 90%;
+    left: 48%;
+    transform: translate(-50%, 5%);
+    background-color: black;
+
+}
+
+.btnPrem {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}

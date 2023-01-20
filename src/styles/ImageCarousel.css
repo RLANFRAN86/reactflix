@@ -1,0 +1,53 @@
+.moviesImagesDiv {
+    display: flex;
+    background-color: #0c0c0c;
+    margin-left: 25px;
+    margin-right: 20px;
+
+}
+.imgCarousel{
+    cursor: pointer;
+}
+
+.carousel_container {
+    display: block;
+    justify-content: center;
+    
+}
+
+.posterCarousel {
+    margin: 0 30px;
+    width: 80%;
+}
+
+
+
+.slick-list {
+    padding: 10px
+}
+
+.slick-next {
+    right: 35px !important;
+    z-index: 99;
+}
+
+.slick-prev {
+    left: 35px !important;
+    z-index: 99;
+
+}
+
+
+.boton3:hover {
+    background: #318aac;
+    color: #fff;
+}
+
+#separar {
+    padding: 1%;
+    display: inline-block;
+}
+.buttons{
+    font-size: 18px;
+    font-weight: bold;
+}

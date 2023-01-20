@@ -1,0 +1,53 @@
+.movie-card {
+  display: flex;
+  flex-wrap: nowrap;
+  
+}
+.background{
+  background-color: black;
+
+}
+
+.detailsContainer {
+  display: flow-root;
+  text-align: justify;
+  margin-left: 0px;
+  margin-right: 50px;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Courier, monospace, calibri, lucida Sans, Helvetica;
+  margin-top: 60px;
+}
+
+.images {
+  width: 500px;
+  margin: 0px 30px 0px 80px;
+  border-image: 15px;
+
+}
+
+
+
+.detailsPoster {
+width: 400px;
+}
+
+.titles {
+  font-size: 18px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: space-evenly;
+  color: rgb(250, 11, 255);
+  margin-left: 80px;
+  margin-top: 20px;
+  background-color: black;
+  margin-bottom: 20px ;
+
+}
+.divider{
+  padding: 10px;
+}
+.MuiSvgIcon-root{
+
+  color: #FA0BFF;
+
+}

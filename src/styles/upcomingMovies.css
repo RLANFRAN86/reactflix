@@ -1,0 +1,19 @@
+.upcomingHeader {
+    background-color: black;
+    display: flex;
+    color: white;
+    margin: 30px 0 0 55px;
+}
+
+.upcoming {
+    font-size: 25px;
+    margin-right: 64%;
+}
+
+.upcoming::first-letter {
+    color: #FA0BFF;
+
+}
+.movies{
+    cursor: pointer;
+}

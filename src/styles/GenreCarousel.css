@@ -1,0 +1,54 @@
+.carousel_container {
+    display: block;
+    justify-content: center;
+}
+
+
+
+.slick-list {
+    margin: 10px 30px;
+    padding: 10px 150px
+}
+
+.genreBtn {
+
+    color: #FA0BFF;
+    background-color: black;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+.slick-next {
+    right: 80px !important;
+    z-index: 99;
+}
+
+.slick-prev {
+    left: 150px !important;
+    z-index: 99;
+
+}
+
+.buttons {
+    display: block;
+    background-color: black;
+    cursor: pointer;
+    font-size: 15px;
+    color: white;
+    border: #FA0BFF solid 2px;
+    border-radius: 10%;
+    padding: 10px;
+    margin-left: 10px;
+    margin: 0 20px !important;
+
+}
+
+.boton3:hover {
+    background: #318aac;
+    color: #fff !important;
+}
+
+#separar {
+    display: inline-block;
+}

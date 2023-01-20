@@ -1,0 +1,52 @@
+.search {
+    cursor: pointer;
+    font-size: 12px;
+    background-color: black;
+    padding: 20px;
+    position: absolute;
+    z-index: 100;
+
+}
+
+
+.search:hover {
+    opacity: .6;
+    background-color: rgba(193, 193, 193, 0.338);
+
+
+}
+
+.col-md-12::before {
+    border: black;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.searchHome {
+    position: relative;
+    height: 38px;
+    padding: 0px 0px 10px 30px;
+
+}
+
+.col-md-12 {
+    background-color: black;
+    width: 250px;
+    padding: 10px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #FA0BFF;
+    position: relative;
+
+}
+
+input {
+    border: #FA0BFF solid 1px;
+
+}
+
+.col-md-12::placeholder {
+    color: #FA0BFF;
+
+}
